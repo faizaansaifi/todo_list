@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "title": "Vue KSS",
+      "details": "Give a KSS session on VueJs covering all basic topics.",
+      "complete": false,
+      "id": 7333
+    },
+    {
+      "title": "Host App#3",
+      "details": "Host your application#3 to your domain and learn basics.",
+      "complete": false,
+      "id": 6273
+    }
+  ]
+}
