@@ -9,6 +9,10 @@ npm install
 ```
 npm run serve
 ```
+### TO run JSON-SERVER
+```
+json-server --watch data/db.json --port 8085
+```
 
 ### Compiles and minifies for production
 ```
