@@ -36,7 +36,7 @@ export default {
         return task.id === id
       })
       p.complete = !p.complete 
-      // console.log(p)
+      // console.log(p) and the new things
     }
   }
 }
